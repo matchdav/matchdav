@@ -1,6 +1,6 @@
 # Hi, I'm matchdav 👋
 
-**Senior Software Engineer @ Duplex (Redbrick subsidiary)**  
+**Agentic Systems Engineer @tbd**  
 Passionate about building robust platforms, wrangling content, and bringing creative energy—both in code and sound.
 
 ---
