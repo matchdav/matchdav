@@ -1,18 +1,8 @@
 # Hi, I'm matchdav 👋
 
-**Agentic Systems Engineer @tbd**  
-Passionate about building robust platforms, wrangling content, and bringing creative energy—both in code and sound.
+**Agentic Systems Engineer @metacogdev**  
 
----
-
-## 👨‍💻 About Me
-
-- **Experience:** 15+ years in software implementation, now leaning into staff and platform engineering.
-- **Domains:** IAM, payments, content management (metadata, DRM, distribution, royalties)—across music, video, photography, and most recently, news.
-- **Stack:** Node.js, TypeScript, Python, Go, databases of all flavors.
-- **Current Focus:**  
-  - Training retrieval-augmented generation (RAG) agents to analyze evolving curated content (think: ongoing wars, celebrity feuds, and more).
-  - Innovating ad tech for the cookieless future—smart header bidding, enriched context, and privacy-first approaches.
+I run https://metacog.dev - a brave little R&D firm exploring applications of metacognition in artificial intelligence.
 
 ---
 
